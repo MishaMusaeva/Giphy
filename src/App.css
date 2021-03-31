@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+html, body{
+  padding: 0;
+  margin: 0;
+ 
+}
+
+h3{
+  font-size: 3em;
+  font-family: 'Syne Mono', monospace;
+  color: cadetblue;
+  margin-left: 350px;
+
+}
+form{
+margin-top: 50px;
+margin-left: 550px;
+}
+input{
+  width: 300px;
+  height: 30px;
+}
+button{
+  height: 35px;
+  margin-left: 10px;
+}
+.card{
+  margin-top: 50px;
+  margin-left: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 80%; 
+  
+}
+.box{
+  width: 400px;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Syne Mono', monospace;
+}
+
